@@ -4,7 +4,9 @@ console.log(duracionEventosArray)
 
 
 
-
+//PREGUNTAS:
+// Porque no se me suma las fechas 
+// Porque no puedo acceder a los valores dentro de mi array
 
 let nuevoEvento = [];
 console.log(nuevoEvento)
